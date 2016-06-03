@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d1e01d",
+        "marker-size": "small",
+        "marker-symbol": "star",
+        "r443": "6y6y7",
+        "img": "http://www.labless.cl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.89453125,
+          -38.6511983322995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b4dd2",
+        "marker-size": "large",
+        "marker-symbol": "rocket",
+        "img": "http://mundoasistencial.com/mundoasistencial/wp-content/uploads/2010/07/stewie_evil.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.78054809570312,
+          -38.63618191259741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0006",
+        "marker-size": "large",
+        "marker-symbol": "camera",
+        "image": "http://mundoasistencial.com/mundoasistencial/wp-content/uploads/2010/07/stewie_evil.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57180786132812,
+          -38.581452635042844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#16e7d1",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "image": "https://www.google.cl/logos/doodles/2016/copa-america-centenario-6256544275496960-hp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.883544921875,
+          -38.23494411562879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004040",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76200866699219,
+          -38.34973404669637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "image": "https://www.google.cl/search?site=&q=Copa+Am%C3%A9rica+2016+fechas&oi=ddle&ct=copa-america-centenario-6256544275496960-hp&hl=es-419&sa=X&ved=0ahUKEwitotaGxYzNAhUCdj4KHTWIAUYQPQgD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.91375732421875,
+          -38.39333888832237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06687927246094,
+          -38.59540719940386
+        ]
+      }
+    }
+  ]
+}
